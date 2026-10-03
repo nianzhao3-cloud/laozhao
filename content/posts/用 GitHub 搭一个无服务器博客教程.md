@@ -95,7 +95,6 @@ categories: ["折腾"]
 <body data-page-node-id="EZG9BItxcsodgC4orF8qPx">
 <div class="wrap" data-page-node-id="T5Qp43170yDGZFle5hrJfC">
 
-<h1 data-page-node-id="AsmObKemsekQpCUOajOqWt">用 GitHub 搭一个无服务器博客</h1>
 <p class="sub" data-page-node-id="o7pYL3bkgzF66bposVVKjD">Hugo + PaperMod 主题 + GitHub Pages 自动部署 · 全程在网页上操作，不需要装任何软件</p>
 
 
