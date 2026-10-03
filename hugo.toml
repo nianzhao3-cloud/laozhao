@@ -1,15 +1,15 @@
-baseURL = 'https://你的用户名.github.io/'
+baseURL = 'https://nianzhao3-cloud.github.io/laozhao/'
 languageCode = 'zh-cn'
 defaultContentLanguage = 'zh'
-title = '我的博客'
+title = '老赵的博客'
 theme = 'PaperMod'
 
 paginate = 10
 enableRobotsTXT = true
 
 [params]
-  author = '你的名字'
-  description = '这里写一句你的博客简介'
+  author = '老赵'
+  description = '用来放b站每期的教学文档，粉丝群：571228203'
   defaultTheme = 'auto'
   ShowReadingTime = true
   ShowShareButtons = false
@@ -21,11 +21,11 @@ enableRobotsTXT = true
 
   [params.homeInfoParams]
     Title = '你好，欢迎来我的博客'
-    Content = '这里放一句欢迎语。'
+    Content = '记录，分享，相遇'
 
   [[params.socialIcons]]
     name = 'github'
-    url = 'https://github.com/你的用户名'
+    url = 'https://github.com/nianzhao3-cloud'
 
 [menu]
   [[menu.main]]
