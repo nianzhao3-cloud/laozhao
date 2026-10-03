@@ -1,6 +1,6 @@
 ---
 title: "在文章里写 HTML 的示例"
-date: 2026-10-04
+date: 2026-10-02
 draft: false
 tags: ["教程"]
 categories: ["折腾"]
