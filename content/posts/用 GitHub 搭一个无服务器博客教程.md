@@ -1,9 +1,10 @@
 ---
 title: "用 GitHub 搭一个无服务器博客教程"
-date: 2026-10-02
+date: 2026-10-03
 draft: false
-tags: ["教程"]
-categories: ["折腾"]
+tags: ["教学"]
+categories: ["教学"]
+summary: "无需服务器，稳定跑博客"
 ---
 <!DOCTYPE html>
 <html lang="zh-CN" data-page-node-id="3mlFVxTwEvlCJdZ1GwsnWe">
