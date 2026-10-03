@@ -1,3 +1,13 @@
+---
+title: "QQ 群机器人 · 小号方案操作手册"
+date: 2026-10-03
+draft: false
+tags: ["教学"]
+categories: ["教学"]
+summary: "用自己的小号链接机器人"
+---
+
+
 <meta charset="utf-8">
 <title>QQ 群机器人 · 小号方案操作手册</title>
 <style>
