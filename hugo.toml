@@ -21,7 +21,7 @@ enableRobotsTXT = true
 
   [params.homeInfoParams]
     Title = '你好，欢迎来我的博客'
-    Content = '记录，分享，相遇'
+    Content = '粉丝群571228203 记录，分享，相遇'
 
   [[params.socialIcons]]
     name = 'github'
