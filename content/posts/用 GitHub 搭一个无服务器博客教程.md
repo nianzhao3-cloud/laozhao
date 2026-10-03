@@ -98,15 +98,6 @@ categories: ["折腾"]
 <h1 data-page-node-id="AsmObKemsekQpCUOajOqWt">用 GitHub 搭一个无服务器博客</h1>
 <p class="sub" data-page-node-id="o7pYL3bkgzF66bposVVKjD">Hugo + PaperMod 主题 + GitHub Pages 自动部署 · 全程在网页上操作，不需要装任何软件</p>
 
-<div class="note" data-page-node-id="hZuaW6m6YceWgJpCEgnNsl">
-  <strong data-page-node-id="NNUUNFpON3KMhL8B8uocqb">这套方案为什么适合你：</strong>你只需要在浏览器里点按钮、改文字、提交。真正的「生成网页」这一步是在 GitHub 的服务器上自动完成的，你本机什么都不用装。<br data-page-node-id="SAa5ROmoBck4oJ5A7yjQMq">
-  站点干净：没有广告、没有点赞、没有推荐流、没有评论框，只有拿到链接的人能看到内容。
-</div>
-
-<div class="danger" data-page-node-id="vJcBF3MvF6AVKuu9iB0G2E">
-  <strong data-page-node-id="MRV8iuj1z97TvbFYgk9j9Y">先看这里 ——</strong>如果你点开仓库顶部的 <strong data-page-node-id="Ca0XZySJEYaZ5z9TxgPFUh">Actions</strong> 标签，看到的是「Get started with GitHub Actions」这样的<strong data-page-node-id="yH7jlG5LLzde3NcWZd0Fxp">欢迎页</strong>，而不是一条正在跑的任务，说明 <span class="path" data-page-node-id="kbrwCH8dmVfYhbb4rGo359">.github</span> 文件夹没上传成功。<br data-page-node-id="Oe37GzFSNxA02RHYnkbXDw">
-  这是拖拽上传最常见的坑，<strong data-page-node-id="GiQaiOwHk8JhIVIeGySaHP">不会影响你已经传上去的东西</strong>，按<a href="#step2" data-page-node-id="NwdtCzAxqq4Y5B4ENvnvXx">第 2 步里「万一 .github 还是漏了」那一节</a>花 30 秒补一下就好。
-</div>
 
 <div class="toc" data-page-node-id="DdRSKVb3SAtXfnOjIHZspK">
   <strong data-page-node-id="iKgC69fCg79PEXTJNUe46x">目录</strong><br data-page-node-id="sISRFPk9qnVd4RqC2eezgC">
