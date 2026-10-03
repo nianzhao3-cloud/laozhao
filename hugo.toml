@@ -50,10 +50,11 @@ enableRobotsTXT = true
     weight = 50
 
 [markup]
+  [markup.goldmark.renderer]
+    unsafe = true
   [markup.highlight]
     noClasses = false
- [markup.goldmark.renderer]
-    unsafe = true
+
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
 
