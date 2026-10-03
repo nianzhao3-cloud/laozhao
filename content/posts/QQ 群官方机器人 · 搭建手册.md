@@ -1,6 +1,6 @@
 
 ---
-title: "QQ 群官方机器人 · 搭建手册
+title: "QQ 群官方机器人 · 搭建手册（含接入 AI）"
 date: 2026-10-03
 draft: false
 tags: ["教学"]
